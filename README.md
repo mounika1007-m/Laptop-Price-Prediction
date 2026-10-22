@@ -1,7 +1,7 @@
 # 💻 Laptop Price Prediction Using Machine Learning
 
 📌 **Project Description**
-This project presents an end-to-end machine learning solution that estimates laptop prices based on technical specifications. It utilizes a regression pipeline built in Python to cover data cleaning, exploratory data analysis, feature engineering, and performance comparison of multiple machine learning models.
+This project presents an end-to-end machine learning solution developed during my Machine Learning Internship at Prinston Smart Engineers. It estimates laptop prices based on technical specifications by utilizing a full regression pipeline built in Python—covering data cleaning, exploratory data analysis, feature engineering, performance comparison of multiple models, and web deployment.
 
 🎯 **Objectives**
 - Build regression models to predict laptop prices from technical specifications
@@ -40,7 +40,7 @@ The dataset contains 1,303 laptop records with 11 attributes, including company 
 - **Display & Build**: IPS displays and touchscreens offer moderate price premiums, whereas screen size alone displays minimal linear correlation with price.
 
 📌 **Conclusion**
-The Laptop Price Prediction project demonstrates an end-to-end machine learning pipeline from raw data to a deployed web estimator. It provides a reliable tool for buyers, e-commerce platforms, and manufacturers to evaluate pricing logic based on core specifications.
+The Laptop Price Prediction project demonstrates a production-style machine learning pipeline from raw data to a deployed web estimator[cite: 9]. It provides a reliable tool for buyers, e-commerce platforms, and manufacturers to evaluate pricing logic based on core specifications.
 
 👩‍💻 **Created By**
 Mounika M  
@@ -48,4 +48,4 @@ Final Year BCA Student
 St. Francis College, Bangalore
 
 📎 **Project Type**
-Academic / Machine Learning & Data Analytics Portfolio Project
+Industry Internship Project (Prinston Smart Engineers) / Machine Learning & Data Analytics
